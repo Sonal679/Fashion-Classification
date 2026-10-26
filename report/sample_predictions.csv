@@ -1,0 +1,21 @@
+Image_Index,Actual_Class,Predicted_Class,Confidence_Percentage,Correct
+0,Ankle boot,Ankle boot,99.9592,True
+1,Pullover,Pullover,99.999794,True
+2,Trouser,Trouser,100.0,True
+3,Trouser,Trouser,100.0,True
+4,Shirt,Shirt,99.49171,True
+5,Trouser,Trouser,100.0,True
+6,Coat,Coat,92.03941,True
+7,Shirt,Shirt,98.9028,True
+8,Sandal,Sandal,99.99998,True
+9,Sneaker,Sneaker,99.999985,True
+10,Coat,Coat,98.93757,True
+11,Sandal,Sandal,99.99639,True
+12,Sneaker,Sandal,51.38274,False
+13,Dress,Dress,99.99998,True
+14,Coat,Coat,94.385284,True
+15,Trouser,Trouser,100.0,True
+16,Pullover,Pullover,96.134895,True
+17,Coat,Coat,87.94447,True
+18,Bag,Bag,99.99998,True
+19,T-shirt/top,T-shirt/top,99.92178,True

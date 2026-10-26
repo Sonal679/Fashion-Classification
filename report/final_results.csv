@@ -1,0 +1,10 @@
+Metric,Value
+Test Loss,0.23524577915668488
+Test Accuracy,0.9214000105857849
+Test Accuracy Percentage,92.14000105857849
+Weighted Precision,0.9209728881608109
+Weighted Recall,0.9214
+Weighted F1 Score,0.9205398788819948
+Training Time Minutes,1.556162957350413
+Epochs Completed,10.0
+Batch Size,64.0

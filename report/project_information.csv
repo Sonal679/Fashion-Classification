@@ -1,0 +1,16 @@
+Parameter,Value
+Project Title,Fashion-MNIST Image Classification
+Dataset,Fashion-MNIST
+Task,Multi-class Image Classification
+Deep Learning Model,Convolutional Neural Network (CNN)
+Framework,TensorFlow / Keras
+Optimizer,Adam
+Loss Function,Sparse Categorical Crossentropy
+Input Size,28 x 28 x 1
+Output Classes,10
+Batch Size,64
+Maximum Epochs,10
+Actual Epochs,10
+Dropout,0.5
+Training Samples,60000
+Testing Samples,10000

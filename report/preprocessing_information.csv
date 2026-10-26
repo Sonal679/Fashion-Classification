@@ -1,0 +1,8 @@
+Parameter,Value
+Original Image Size,28 x 28
+Image Channels,1 - Grayscale
+Original Pixel Range,0 - 255
+Normalized Pixel Range,0 - 1
+Training Samples,60000
+Testing Samples,10000
+Number of Classes,10
